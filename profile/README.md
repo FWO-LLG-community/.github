@@ -1,6 +1,6 @@
-# Fast Way Only – LaLeagane Community
+# Fast Way Only & LaLeagane - Community
 
-🚀 **FWO – LLG Community**  
+🚀 **FWO & LLG - Community**  
 
 A global community dedicated to **Bunnyhop**, **Speedrun**, and **Deathrun** in Counter-Strike 1.6.  
 We bridge players from **Brazil** and **Romania** in one united platform.
