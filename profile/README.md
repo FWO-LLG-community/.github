@@ -12,15 +12,17 @@ We bridge players from **Brazil** and **Romania** in one united platform.
 - **ftl~ツ** (Brazil) – Creator and admin of **Fast Way Only (FWO)**  
 - **Mrshark45** (Romania) – Creator and admin of **LaLeagane (LLG)**
 
-**FWO** (Fast Way Only) is hosted in Brazil, running a **Bhop** server with **Deathrun** maps for global competition and time recording.  
+**FWO** (Fast Way Only) is hosted in Brazil, running a **multi-mod Bhop server** that includes maps for **Bunnyhop**, **Deathrun** and **Speedrun** — perfect for global competition, time recording, and versatile gameplay.
 
-**LLG** (LaLeagane) is hosted in Romania, with two dedicated servers: one for **Bhop** and one for **Deathrun**.
+**LLG** (LaLeagane) is hosted in Romania, with two dedicated servers: one multi-mod **Bhop** server and one focused **Deathrun** server.
+
+All our servers support multiple modes (including Speedrun), allowing players to switch styles and enjoy varied challenges on the same platform.
 
 ----
 
 ### Global Connection
 
-Our databases are **fully linked**, allowing players from **Europe (Romania)** and **South America (Brazil)** to compete directly on the same leaderboards, top15 rankings, and world records.  
+Our databases are **fully linked**, allowing players from **Europe (Romania)** and **South America (Brazil)** to compete directly on the same leaderboards, top15 rankings, and world records.
 
 Check all times and rankings here:  
 🌐 **[Timer Panel](https://laravel.cs-gfx.eu/)**
@@ -31,7 +33,7 @@ Check all times and rankings here:
 
 - 🇧🇷 **Fast Way Only #1** | [BHOP-Speedrun] [Top15, RecordBOT]  
   **IP:** 190.115.197.245:27015
-  
+
 - 🇷🇴 **BHOP.LALEAGANE.RO** | [Top15, RecordBOT, Race]  
   **IP:** 193.84.64.85:27015
 
@@ -44,8 +46,8 @@ Check all times and rankings here:
 
 Come hang out, participate in events, competitions, and daily chats:
 
-- **LLG Discord** (Romania + Global): [discord.gg/63Cmw328Wa](https://discord.gg/63Cmw328Wa)  
-- **FWO Discord** (Brazil + Global): [discord.gg/mY9ahUxesZ](https://discord.gg/mY9ahUxesZ)
+- 🌐 **[LLG Discord](https://discord.gg/63Cmw328Wa)** (Romania + Global)
+- 🌐 **[FWO Discord](https://discord.gg/mY9ahUxesz)** (Brazil + Global)
 
 ----
 
