@@ -47,7 +47,7 @@ Check all times and rankings here:
 Come hang out, participate in events, competitions, and daily chats:
 
 - 🌐 **[LLG Discord](https://discord.gg/63Cmw328Wa)** (Romania + Global)
-- 🌐 **[FWO Discord](https://discord.gg/mY9ahUxesz)** (Brazil + Global)
+- 🌐 **[FWO Discord](https://discord.gg/mY9ahUxesZ)** (Brazil + Global)
 
 ----
 
